@@ -16,7 +16,7 @@ The user is returned to the actions menu after each action until they decide to 
 
 ## 🎥 Video Walkthrough
 
-[Click to watch video](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+[Click to watch video](https://drive.google.com/file/d/1ZQAxKiexiK1sWHkndooJwM4kaPQoBUEz/view?usp=sharing)
 
 ## 📝 Notes
 
@@ -24,3 +24,8 @@ To begin the command line interface application, enter the following into the co
 ```bash
 npm i && npm run start
 ```
+
+## Credits
+This is an &copy; 2024 edX Boot Camps LLC project assignment branched from [this repository](https://git.bootcampcontent.com/boot-camp-consortium-west-coast/FSF-PT-WEST-AUGUST-080524/-/tree/main).
+
+The project repository for this branch is located [here](https://github.com/jesseswanton/vehiclesimulation/).
